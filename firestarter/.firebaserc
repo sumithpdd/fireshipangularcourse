@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "todo-flutter-8a80f": {
+      "hosting": {
+        "firestarter": [
+          "todo-flutter-8a80f"
+        ]
+      }
+    }
+  }
+}
